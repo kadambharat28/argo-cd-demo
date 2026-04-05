@@ -14,7 +14,8 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: nginx:stable
+          image: nginx:1.27.4
+          imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 80
           volumeMounts:
