@@ -42,6 +42,6 @@ data:
     </head>
     <body>
       <h1>Hello from Argo CD</h1>
-      <p>This app is deployed on local Kubernetes using Argo CD.</p>
+      <p>This app is deployed on local Kubernetes using Argo CD-Bharat today demo.</p>
     </body>
     </html>
